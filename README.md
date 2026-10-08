@@ -12,9 +12,9 @@ Alongside industry work, I build developer tools and desktop applications. My re
 
 ## Industry experience
 
-At **Olympus Marine Group**, I develop vessel-management and emissions-monitoring applications using Vue.js/TypeScript and C#/.NET, with event-driven integrations through RabbitMQ and Azure Event Hub. My work covers frontend interfaces, APIs, databases, testing, deployment, and production support.
+I develop multiple applications using Vue.js/TypeScript and C#/.NET, with event-driven integrations through RabbitMQ and Azure Event Hub. My work covers frontend interfaces, APIs, databases, testing, deployment, and production support.
 
-Previously, at **Retraced**, I developed React and Node.js features for supply-chain software and worked on graph-oriented data processing.
+
 
 ## Selected projects
 
